@@ -1,0 +1,24 @@
+# Node.js 相關
+node_modules/
+package-lock.json
+
+# TypeScript 編譯輸出
+dist/
+
+# Jest 測試快取與結果
+coverage/
+jest-cache/
+jest-report/
+
+# 環境變數檔案
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE / 編輯器設定
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
