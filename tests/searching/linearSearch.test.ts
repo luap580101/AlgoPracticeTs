@@ -1,4 +1,5 @@
 import { linearSearch } from "../../src/searching/linearSearch";
+
 describe("Linear Search", () => {
   test("應該找到數字陣列中的目標元素", () => {
     const arr = [3, 1, 4, 1, 5, 9, 2, 6, 5];
